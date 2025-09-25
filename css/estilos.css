@@ -129,9 +129,9 @@ body{
 }
 
 .btn-blue{
-	background: blue;
+	background: #4800FF;
 	display: inline-block;
-	color: #2AF7C4;
+	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 700;
 	text-decoration: none;

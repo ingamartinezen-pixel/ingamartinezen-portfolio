@@ -129,7 +129,7 @@ body{
 }
 
 .btn-blue{
-	background: transparent;
+	background: blue;
 	display: inline-block;
 	color: #2AF7C4;
 	text-transform: uppercase;
